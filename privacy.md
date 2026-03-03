@@ -1,7 +1,7 @@
-================================================================================
-  A STRANGE GAME – PRIVACY POLICY
-  Developer : VibeCore
-  Application : A Strange Game (com.vibecore.astrangegame)
+
+  A STRANGE GAME – PRIVACY POLICY<br>
+  Developer : VibeCore<br>
+  Application : A Strange Game (com.vibecore.astrangegame)<br>
   Effective date : 2026-03-03
 ================================================================================
 
@@ -55,4 +55,3 @@ PRIVACY POLICY
    developer at the following address:
    contact.vibecore@proton.me
 
-================================================================================
