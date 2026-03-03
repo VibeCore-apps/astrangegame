@@ -54,4 +54,3 @@ PRIVACY POLICY
    For any questions regarding this privacy policy, you may contact the
    developer at the following address:
    contact.vibecore@proton.me
-
